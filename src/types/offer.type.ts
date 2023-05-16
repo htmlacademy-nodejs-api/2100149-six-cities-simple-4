@@ -1,4 +1,6 @@
 import { City } from './city.type';
+import { Features } from './features.type';
+import { OfferType } from './offer-type.type';
 import { User } from './user.type';
 
 export type Offer = {
@@ -10,11 +12,11 @@ export type Offer = {
   photos: string[];
   isPremium: boolean;
   rating: number;
-  type: string;
+  type: OfferType;
   roomsCount: number;
   guestsCount: number;
   price: number;
-  features: string[];
+  features: Features[];
   user: User;
   commentsCount: number;
   location: {
