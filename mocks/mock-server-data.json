@@ -1,0 +1,81 @@
+{
+    "api": {
+      "titles": [
+        "Offer1",
+        "Offer2",
+        "Offer3",
+        "Offer4",
+        "Offer5",
+        "Offer6",
+        "Offer7",
+        "Offer8"
+      ],
+      "descriptions": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+      ],
+      "previewImages": [
+        "preview1.jpg",
+        "preview2.jpg",
+        "preview3jpg",
+        "preview4.jpg",
+        "preview5.jpg",
+        "preview6.jpg",
+        "preview7.jpg",
+        "preview8.jpg"
+      ],
+      "photos": [
+        "photo1.jpg",
+        "photo2.jpg",
+        "photo3.jpg",
+        "photo4.jpg",
+        "photo5.jpg",
+        "photo6.jpg",
+        "photo7.jpg",
+        "photo8.jpg"
+      ],
+      "users": [
+        "Ivan",
+        "Petr",
+        "Artem",
+        "Olga",
+        "Brat s gor Egor"
+      ],
+      "emails": [
+        "snow@pisem.local",
+        "president@dka.local",
+        "fish@big.local",
+        "test@pisem.local",
+        "freedom@pisem.local",
+        "rolan@pochta.local",
+        "author@mir.local",
+        "test@lost.loca",
+        "kujo-fan@story.local"
+      ],
+      "avatars": [
+        "ivan.jpg",
+        "petr.jpg",
+        "artem.png",
+        "olga.jpg",
+        "egor.jpg"
+      ],
+      "passwords": [
+        "pass1",
+        "pass2",
+        "pass3",
+        "pass4",
+        "pass5"
+      ],
+      "locations": [
+        "52.370216;4.895168",
+        "51.225402;6.776314",
+        "55.580748;36.825130",
+        "59.939457;29.435317",
+        "54.711696;20.299721",
+        "43.166719;131.788646"
+      ]
+    }
+  }
