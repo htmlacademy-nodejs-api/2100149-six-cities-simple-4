@@ -1,5 +1,6 @@
 import { City } from './city.type';
 import { Features } from './features.type';
+import { Location } from './location.type';
 import { OfferType } from './offer-type.type';
 import { User } from './user.type';
 
@@ -19,8 +20,5 @@ export type Offer = {
   features: Features[];
   user: User;
   commentsCount: number;
-  location: {
-    lat: number;
-    long: number;
-  };
+  location: Location
 };

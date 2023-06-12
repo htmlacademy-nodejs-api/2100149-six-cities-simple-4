@@ -1,9 +1,8 @@
 import { City } from '../../types/city.type.js';
 import { Features } from '../../types/features.type.js';
 import { OfferType } from '../../types/offer-type.type.js';
-import { Offer } from '../../types/offer.type.js';
 
-export function createOffer(offerData: string): Offer {
+export function createOffer(offerData: string) {
   const [
     title,
     description,
